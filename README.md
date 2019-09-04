@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/philenz/philenz/_apis/build/status/philenz.pipelines-java?branchName=master)](https://dev.azure.com/philenz/philenz/_build/latest?definitionId=4&branchName=master)
 
 # Contributing
 
